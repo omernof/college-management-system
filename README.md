@@ -22,4 +22,4 @@ Compile and run `collegeProject`, which starts the interactive menu (add lecture
 
 ## Authors
 
-Built by Omer Nof and Linoy.
+Built by Omer Nof.
